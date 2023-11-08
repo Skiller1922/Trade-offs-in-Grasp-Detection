@@ -23,5 +23,19 @@ To install these dependencies, use the following command:
 
 ```bash
 pip install tensorflow numpy matplotlib
+```
 
 ## Dataset
+
+The dataset used was the cornell dataset. You will need to download the dataset separately and change the path in the code when using it
+
+## Credits
+
+This project was conducted by Mikhail Chirkoot at the University of Witswatersrand under the supervision of Dr. Benjamin Rosman.
+
+## Future Directions
+
+- Diversify datasets for model training to improve robustness and generalizability.
+- Explore more extensive hyperparameter optimization techniques.
+- Incorporate confidence intervals in performance metrics for better reliability assessment.
+- Evaluate adaptability and robustness under various conditions such as noise and occlusion.
